@@ -1,0 +1,6 @@
+#folder not to commit:
+
+node_modules/
+
+#file not to commit:
+package-lock.json
